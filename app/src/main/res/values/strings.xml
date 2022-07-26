@@ -1,0 +1,61 @@
+<!--<resources>-->
+<!--    <string name="app_name">Calculator MVC</string>-->
+<!--    <string name="_7">7</string>-->
+<!--    <string name="_8">8</string>-->
+<!--    <string name="_9">9</string>-->
+<!--    <string name="divide">/</string>-->
+<!--    <string name="_4">4</string>-->
+<!--    <string name="_5">5</string>-->
+<!--    <string name="_6">6</string>-->
+<!--    <string name="multiply">*</string>-->
+<!--    <string name="_3">3</string>-->
+<!--    <string name="_2">2</string>-->
+<!--    <string name="_1">1</string>-->
+<!--    <string name="subtract">-</string>-->
+<!--    <string name="_0">0</string>-->
+<!--    <string name="clr">CLR</string>-->
+<!--    <string name="plus">+</string>-->
+<!--    <string name="equal">=</string>-->
+<!--    <string name="openedBracket">(</string>-->
+<!--    <string name="closedBracket">)</string>-->
+<!--    <string name="dot">.</string>-->
+<!--</resources>-->
+<resources>
+<string name="app_name">Calculator</string>
+<string name="result_default_txt">0.0</string>
+<string name="left_par">left parentheses</string>
+<string name="right_par">right parentheses</string>
+<string name="error_msg">Error, could not parse equation.</string>
+<string name="left_parentheses">(</string>
+<string name="right_parentheses">)</string>
+<string name="cancel_equation">cancel equation</string>
+<string name="cancel">C</string>
+<string name="backspace">backspace</string>
+<string name="seven">7</string>
+<string name="eight">8</string>
+<string name="nine">9</string>
+<string name="divide">divide</string>
+<string name="divide_text">/</string>
+<string name="five">5</string>
+<string name="six">6</string>
+<string name="multiply">multiply</string>
+<string name="multiply_text">*</string>
+<string name="one">1</string>
+<string name="two">2</string>
+<string name="three">3</string>
+<string name="subtract">subtract</string>
+<string name="dash">-</string>
+<string name="zero">0</string>
+<string name="decimal_point">decimal point</string>
+<string name="dot">.</string>
+<string name="add">add</string>
+<string name="plus">+</string>
+<string name="equals">equals</string>
+<string name="equals_sign">=</string>
+<string name="four">4</string>
+<string name="default_result">Result: 0.0</string>
+<string name="equation_cleared">Equation cleared.</string>
+<string name="result">\"Result: \"</string>
+    <string name="back_space">⌫</string>
+
+</resources>
